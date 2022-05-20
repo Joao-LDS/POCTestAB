@@ -40,7 +40,6 @@
 		CFF5CD012837D4FF00BE2E2C /* AnalyticsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnalyticsManager.swift; sourceTree = "<group>"; };
 		CFF5CD032837D51000BE2E2C /* HomeAnalyticsEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeAnalyticsEvent.swift; sourceTree = "<group>"; };
 		CFF5CD092837D6C200BE2E2C /* UIColor+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Extension.swift"; sourceTree = "<group>"; };
-		CFF5CD0C2837DE2E00BE2E2C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +81,6 @@
 				CFF5CD052837D52200BE2E2C /* Analytics */,
 				CF988C2D28356DF400419C99 /* RemoteConfig */,
 				CFF5CD0B2837DE1200BE2E2C /* Extensions */,
-				CFF5CD0C2837DE2E00BE2E2C /* README.md */,
 				CF988C1B28353FD300419C99 /* Info.plist */,
 				CF988C2428355B9300419C99 /* GoogleService-Info.plist */,
 				CF988C1628353FD200419C99 /* Assets.xcassets */,
